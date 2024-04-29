@@ -1,37 +1,31 @@
-# Análisis de Calidad del Vino
+# Wine Quality
 
-Este proyecto es un análisis de datos creado con el objetivo de explorar y comprender los componentes que influyen en la calidad del vino. El análisis se realiza utilizando Jupyter notebooks en Deepnote.
+This project is a data analysis aimed at exploring and understanding the components that influence wine quality. The analysis is conducted using Jupyter notebooks on Deepnote.
 
-## Descripción del Proyecto
+## Project Description
 
-Al intentar comprender los componentes que influyen en la calidad del vino, se plantean varias preguntas interesantes para encontrar mejores insights en los datos. Se utilizan diferentes tipos de gráficos para facilitar el entendimiento de los resultados.
+In an effort to understand the components that influence wine quality, several interesting questions are posed to uncover better insights in the data. Different types of graphs are utilized to facilitate understanding of the results.
 
-## Obtén una Comprensión Más Profunda
+## Gain Deeper Insight
 
-Para una comprensión más detallada de este proyecto y para explorar los insights obtenidos, te invitamos a acceder al Jupyter notebook en Deepnote. [¡Haz clic aquí para acceder al proyecto!](https://edwlearn.super.site/projects/wine-data-exploration-variability-and-quality-analysis)
+For a more detailed understanding of this project and to explore the insights obtained, we invite you to access the Jupyter notebook on Deepnote. [Click here to access the project!](https://edwlearn.super.site/projects/wine-data-exploration-variability-and-quality-analysis)
 
+## Cloning the Repository
 
-## Clonar el Repositorio
-
-Si deseas clonar este repositorio y explorar el código y los datos por ti mismo, puedes hacerlo ejecutando el siguiente comando en tu terminal:
+If you wish to clone this repository and explore the code and data yourself, you can do so by executing the following command in your terminal:
 
 ```
 git clone https://github.com/EdwLearn/WineQuality
 ```
 
-
-Una vez clonado el repositorio, podrás acceder al directorio que contiene el archivo `eda-wines-template.ipynb` para ver y ejecutar el Jupyter notebook. Puedes utilizar el siguiente comando en tu terminal para navegar al directorio:
+Once the repository is cloned, you will be able to access the directory containing the `eda-wines-template.ipynb` file to view and execute the Jupyter notebook. You can use the following command in your terminal to navigate to the directory:
 
 ```
 cd eda-wines-template.ipynb
 ```
 
+## Credits
 
-## Créditos
+This project was conducted by the [Platzi School of Data Science and Artificial Intelligence](https://platzi.com/datos/).
 
-Este proyecto fue realizado por la [Escuela de Data Science e Inteligencia Artificial de Platzi](https://platzi.com/datos/)
-
-¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis proporcione una comprensión más profunda de los componentes que contribuyen a la calidad del vino.
-
-
-
+Thank you for your interest in our project! We hope this analysis provides a deeper understanding of the components contributing to wine quality.
