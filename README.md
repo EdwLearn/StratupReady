@@ -29,16 +29,6 @@ cd eda-wines-template.ipynb
 
 ## Créditos
 
-Este proyecto fue realizado por la Escuela de Data Science e Inteligencia Artificial de Platzi.
-
-¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis proporcione una comprensión más profunda de los componentes que contribuyen a la calidad del vino.
-
---- 
-
-Con esta adición, los usuarios tendrán la información necesaria para clonar el repositorio y acceder al directorio específico donde se encuentra el archivo `eda-wines-template.ipynb`.
-
-## Créditos
-
 Este proyecto fue realizado por la [Escuela de Data Science e Inteligencia Artificial de Platzi](https://platzi.com/datos/)
 
 ¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis proporcione una comprensión más profunda de los componentes que contribuyen a la calidad del vino.
