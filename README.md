@@ -1,26 +1,47 @@
-# Wine Quality
+# Análisis de Calidad del Vino
 
-![Plantilla Github(3)](https://user-images.githubusercontent.com/79411131/184985884-07de9b4e-56f9-4ebd-a003-559f8eb51f2c.gif)
+Este proyecto es un análisis de datos creado con el objetivo de explorar y comprender los componentes que influyen en la calidad del vino. El análisis se realiza utilizando Jupyter notebooks en Deepnote.
 
-Es un análisis de datos creado con el objetivo de explorar y entender los componentes que crean al vino, con esto saber que componentes hacen el vino de un mejor o peor sabor. Creado con [Jupyter notebooks en Deepnote](https://deepnote.com/workspace/edwlearn-225a6e89-4662-4f46-b221-100a82e8fc56/project/Proyecto-StartupReady-Analisis-Exploratorio-de-Datos-Duplicate-29f70b0d-c1f2-4f9d-850b-57af65306dc7/%2Feda-wines-template.ipynb)
+## Descripción del Proyecto
 
-Al tratar de entender los componentes, se hacen varias preguntas interesantes para encontrar mejores insights en los datos, con diferentes tipos de gráficas para un mejor entendimiento
+Al intentar comprender los componentes que influyen en la calidad del vino, se plantean varias preguntas interesantes para encontrar mejores insights en los datos. Se utilizan diferentes tipos de gráficos para facilitar el entendimiento de los resultados.
 
-# Tecnologies
+## Obtén una Comprensión Más Profunda
 
-**Librerias de manipulación:**
-
-- Pandas
-- Numpy
+Para una comprensión más detallada de este proyecto y para explorar los insights obtenidos, te invitamos a acceder al Jupyter notebook en Deepnote. [¡Haz clic aquí para acceder al proyecto!](https://edwlearn.super.site/projects/wine-data-exploration-variability-and-quality-analysis)
 
 
-**Librerias de visualización:**
+## Clonar el Repositorio
 
-- Matplotlib
-- Meaborn
-- Squarify 
+Si deseas clonar este repositorio y explorar el código y los datos por ti mismo, puedes hacerlo ejecutando el siguiente comando en tu terminal:
 
-# Creditos
+```
+git clone https://github.com/EdwLearn/WineQuality
+```
 
-[Escuela de Data Science e Inteligencia Artificial de Platzi](https://platzi.com/datos/)
+
+Una vez clonado el repositorio, podrás acceder al directorio que contiene el archivo `eda-wines-template.ipynb` para ver y ejecutar el Jupyter notebook. Puedes utilizar el siguiente comando en tu terminal para navegar al directorio:
+
+```
+cd eda-wines-template.ipynb
+```
+
+
+## Créditos
+
+Este proyecto fue realizado por la Escuela de Data Science e Inteligencia Artificial de Platzi.
+
+¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis proporcione una comprensión más profunda de los componentes que contribuyen a la calidad del vino.
+
+--- 
+
+Con esta adición, los usuarios tendrán la información necesaria para clonar el repositorio y acceder al directorio específico donde se encuentra el archivo `eda-wines-template.ipynb`.
+
+## Créditos
+
+Este proyecto fue realizado por la [Escuela de Data Science e Inteligencia Artificial de Platzi](https://platzi.com/datos/)
+
+¡Gracias por tu interés en nuestro proyecto! Esperamos que este análisis proporcione una comprensión más profunda de los componentes que contribuyen a la calidad del vino.
+
+
 
